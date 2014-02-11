@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">wtfwsf</string>
+    <string name="scanbuttondesc">&lt;b&gt;Scan Barcode&lt;/b&gt;</string>
+    <string name="balancebutton">Check Ticket Balance</string>
+    <string name="scannedbarcode">Scanned Barcode Value</string>
+    <string name="bctextlabel">Barcode: </string>
+    <string name="balancelabel">Balance: </string>
+
+</resources>

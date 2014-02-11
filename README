@@ -1,0 +1,12 @@
+wtfwsf -- Check the ticket balance of a WA State Ferry pass, using its barcode
+
+* Build
+	This project uses ZXING project's "android-integration" library and
+	the JSoup library. You'll need these jar files in the ./libs directory
+
+* App binary:
+	The APK can be download from Goolge Play:
+	https://play.google.com/store/apps/details?id=com.tavakkolian.wtfwsf
+
+* License:
+	MIT; see the LICENSE file
